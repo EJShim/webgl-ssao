@@ -1,0 +1,19 @@
+{
+  "name": "webgl-ssao",
+  "version": "1.0.0",
+  "description": "SSAO rendering using webgl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJShim/webgl-ssao.git"
+  },
+  "author": "EJ Shim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EJShim/webgl-ssao/issues"
+  },
+  "homepage": "https://github.com/EJShim/webgl-ssao#readme"
+}
